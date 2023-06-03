@@ -1,0 +1,30 @@
+body{
+    background-image: url("galaxy.jpg");
+    background-size: cover;
+}
+
+h1{
+    font-size: 50px;
+    color: #cb00FF;
+    border: 3px yellow solid;
+} 
+
+li{
+    color: white;
+}
+
+.yellow-text{
+    color: yellow;
+}
+
+.small-text{
+    font-size: 10px;
+}
+
+.big-text{
+    font-size: 60px;
+}
+
+#color-europa{
+    color: green;
+}

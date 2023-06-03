@@ -1,0 +1,19 @@
+/* li a{ Seletor de decendencia   
+    color: red;
+} */
+
+li > div > a { /*Seletor filho*/
+    color:red;
+}
+
+h1 + h4{ /*Seletor adjacente, seleciona a proxima tag em html */
+    border: 2px solid red;
+}
+
+a[herf='/recibo']{ /* Seletor de Atributo, seleciona através do atributo*/
+    color: orange;
+}
+
+li:nth-of-type(odd){ /* Seletor por Linha, odd - linhas inmpares, pode ser usado numeros para indicar a linha */
+    color: red;
+}

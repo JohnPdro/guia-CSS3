@@ -1,0 +1,16 @@
+p{
+    font-family: 'Amatic SC', cursive;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 2;
+}
+
+h1{
+    font-family: 'Righteous', cursive;
+    text-align: center;
+    text-decoration: underline;
+    margin: 50px auto;
+    width: 10%;
+    border: 2px black solid;
+    padding: 10px;
+}
